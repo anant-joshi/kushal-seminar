@@ -1,5 +1,5 @@
 # kushal-seminar
-Setup Script for Kusha's Seminar
+Setup Script for Kushal's Seminar
 
 ## Usage
 
